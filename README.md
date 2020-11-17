@@ -3,6 +3,7 @@
 
 ## 기본 규칙
 - 1문제 풀이에 1 Pull request
+- Readme 등의 공용 문서 편집도 별도로 PR 작성
 
 ## 폴더 구조 (see [#2](https://github.com/leaf-villain/algorithm/issues/2))
 
