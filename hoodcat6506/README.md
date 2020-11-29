@@ -18,9 +18,10 @@
 ## medium
 * [5. Longest Palindromic Substring(29.9%)](https://leetcode.com/problems/longest-palindromic-substring)
 * [12. Integer to Roman(55.6%)](https://leetcode.com/problems/integer-to-roman)
-* [15. 3sum(27.5%)](https://leetcode.com/problems/3sum)
+* [15. 3Sum(27.5%)](https://leetcode.com/problems/3sum)
 * [16. 3Sum Closest(46.2%)](https://leetcode.com/problems/3sum-closest)
 * [17. Letter Combinations of a Phone Number(48.1%)](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+* [18. 4Sum(34.3%)](https://leetcode.com/problems/4sum)
 
 ## hard
 * [4. Median of Two Sorted Arrays(30.4%)](https://leetcode.com/problems/median-of-two-sorted-arrays)
