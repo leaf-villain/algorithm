@@ -13,6 +13,7 @@
 ## easy
 * [13. Roman to Integer(56.2%)](https://leetcode.com/problems/roman-to-integer)
 * [14. Longest Common Prefix(35.8%)](https://leetcode.com/problems/longest-common-prefix)
+* [20. Valid Parentheses(39.4%)](https://leetcode.com/problems/valid-parentheses)
 * [167. Two Sum II - Input array is sorted(55.1%)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
 ## medium
@@ -22,6 +23,7 @@
 * [16. 3Sum Closest(46.2%)](https://leetcode.com/problems/3sum-closest)
 * [17. Letter Combinations of a Phone Number(48.1%)](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 * [18. 4Sum(34.3%)](https://leetcode.com/problems/4sum)
+* [19. Remove Nth Node From End of List(35.4%)](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 
 ## hard
 * [4. Median of Two Sorted Arrays(30.4%)](https://leetcode.com/problems/median-of-two-sorted-arrays)
