@@ -26,9 +26,11 @@
 * [18. 4Sum(34.3%)](https://leetcode.com/problems/4sum)
 * [19. Remove Nth Node From End of List(35.4%)](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 * [22. Generate Parentheses(64.3%)](https://leetcode.com/problems/generate-parentheses)
+* [24. Swap Nodes in Pairs(51.7%)](https://leetcode.com/problems/swap-nodes-in-pairs)
 
 ## hard
 * [4. Median of Two Sorted Arrays(30.4%)](https://leetcode.com/problems/median-of-two-sorted-arrays)
 * [10. Regular Expression Matching(27.1%)](https://leetcode.com/problems/regular-expression-matching)
 * [23. Merge k Sorted Lists(41.5%)](https://leetcode.com/problems/merge-k-sorted-lists)
+* [25. Reverse Nodes in k-Group(43.7%)](https://leetcode.com/problems/reverse-nodes-in-k-group)
 * [65. Valid Number(15.6%)](https://leetcode.com/problems/valid-number)
