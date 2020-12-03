@@ -15,6 +15,9 @@
 * [14. Longest Common Prefix(35.8%)](https://leetcode.com/problems/longest-common-prefix)
 * [20. Valid Parentheses(39.4%)](https://leetcode.com/problems/valid-parentheses)
 * [21. Merge Two Sorted Lists(54.9%)](https://leetcode.com/problems/merge-two-sorted-lists)
+* [26. Remove Duplicates from Sorted Array(46.0%)](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+* [27. Remove Element(48.8%)](https://leetcode.com/problems/remove-element)
+* [28. Implement strStr()(34.9%)](https://leetcode.com/problems/implement-strstr)
 * [167. Two Sum II - Input array is sorted(55.1%)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
 ## medium
@@ -27,10 +30,12 @@
 * [19. Remove Nth Node From End of List(35.4%)](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 * [22. Generate Parentheses(64.3%)](https://leetcode.com/problems/generate-parentheses)
 * [24. Swap Nodes in Pairs(51.7%)](https://leetcode.com/problems/swap-nodes-in-pairs)
+* [29. Divide Two Integers(16.6%)](https://leetcode.com/problems/divide-two-integers)
 
 ## hard
 * [4. Median of Two Sorted Arrays(30.4%)](https://leetcode.com/problems/median-of-two-sorted-arrays)
 * [10. Regular Expression Matching(27.1%)](https://leetcode.com/problems/regular-expression-matching)
 * [23. Merge k Sorted Lists(41.5%)](https://leetcode.com/problems/merge-k-sorted-lists)
 * [25. Reverse Nodes in k-Group(43.7%)](https://leetcode.com/problems/reverse-nodes-in-k-group)
+* [30. Substring with Concatenation of All Words(25.9%)](https://leetcode.com/problems/substring-with-concatenation-of-all-words)
 * [65. Valid Number(15.6%)](https://leetcode.com/problems/valid-number)
